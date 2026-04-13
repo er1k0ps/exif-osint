@@ -21,3 +21,22 @@ Meta-OSINT Tool es un script en Python que extrae, analiza y geolocaliza automá
 - Descubrimiento de información oculta en redes sociales
 - Geolocalización de puntos de interés
 
+## 📖 Modo de uso
+
+###  Requisitos previos
+
+1. **Instalar Python 3.6+**
+   ```bash
+   python3 --version
+   * En Kali Linux / Ubuntu / Debian
+sudo apt update
+sudo apt install libimage-exiftool-perl
+
+
+pip install requests
+# o
+pip install -r requirements.txt
+
+--------------------------------------------------------------------------
+ 2. Parametro de pwd en todo caso pegar el tipo de imagen
+python3 meta_osint.py <ruta_de_la_imagen>
