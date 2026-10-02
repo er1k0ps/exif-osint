@@ -4,7 +4,7 @@
 
 Meta-OSINT Tool es un script en Python que extrae, analiza y geolocaliza automáticamente los metadatos EXIF de imágenes, proporcionando información crítica para investigaciones de inteligencia de fuentes abiertas.
 
-## 🎯 ¿Qué hace?
+## ¿Qué hace?
 
 - **Extrae TODOS los metadatos EXIF** (500+ campos) usando exiftool
 - **Geolocalización precisa** con conversión DMS → Decimal
@@ -13,7 +13,7 @@ Meta-OSINT Tool es un script en Python que extrae, analiza y geolocaliza automá
 - **Doble salida**: Resumen en consola + Reporte completo en archivo
 - **Manejo profesional de errores** y timeouts
 
-## 🔥 Casos de uso
+## Casos de uso
 
 - Investigaciones OSINT (personas, ubicaciones, eventos)
 - Análisis forense de imágenes
@@ -21,7 +21,7 @@ Meta-OSINT Tool es un script en Python que extrae, analiza y geolocaliza automá
 - Descubrimiento de información oculta en redes sociales
 - Geolocalización de puntos de interés
 
-## 📖 Modo de uso
+## Modo de uso
 
 ###  Requisitos previos
 
